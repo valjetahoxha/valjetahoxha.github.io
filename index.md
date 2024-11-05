@@ -1,7 +1,6 @@
 ## **Val Hoxha**
 
-509-593-2477
-https://www.linkedin.com/in/valjete-hoxha/
+## https://www.linkedin.com/in/valjete-hoxha/
 
 ## ABOUT ME
 Inquisitive, energetic and enthusiastic Computer Science student at Whitman College. I have a strong foundation in math, programming logic and cross-platform coding. Seeking to leverage solid development skills with a focus on collaboration, effective communication, dedication and creativity as a programmer.
