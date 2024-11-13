@@ -1,0 +1,17 @@
+name: Issue Responder
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Respond to new issue
+      run: |
+        ISSUE_NUMBER=$(jq --raw-output .issue.number "$GITHUB_EVENT_PATH")
+        curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"body":"Thank you for opening an issue! We will look into it shortly."}' \
+          "https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/comments"
