@@ -34,7 +34,6 @@ Whitman College | Expected: May 2025
 
 https://publuu.com/flip-book/708042/1574487
 
-## Data sources and projects
 
 ## Data sources and projects
 
@@ -57,3 +56,16 @@ https://publuu.com/flip-book/708042/1574487
 5. [Rates of TBI-related Deaths by Age Group, United States](https://data.cdc.gov/Traumatic-Brain-Injury-/Rates-of-TBI-related-Deaths-by-Age-Group-United-St/nq6q-szvs/about_data)
    - **Description**: Data on traumatic brain injury (TBI) related deaths categorized by age group in the United States.
    - **Ideas for Exploration**: Analyze trends in TBI-related deaths over time, identify high-risk age groups, and develop prevention strategies to reduce TBI-related fatalities.
+
+## Above and Beyond
+
+[England Premier League Data (2019-2020)](england-premier-league-2019-to-2020.csv)
+
+- **Description**: Detailed data on England Premier League matches for the 2019-2020 season, including scores, player statistics, and team performance.
+   - **Ideas for Exploration**: 
+     - **Analyze Match Outcomes**: Study the results of matches to identify patterns and trends in team performance.
+     - **Player Performance**: Evaluate individual player statistics to determine key contributors and standout performers.
+     - **Team Standings**: Track the progression of team standings throughout the season to identify consistent performers and underachievers.
+     - **Predictive Modeling**: Develop models to predict future match outcomes based on historical data.
+     - **Visualization**: Create visualizations to illustrate key statistics and trends, such as goal distributions, win/loss ratios, and player contributions.
+     -[Foreign Players](figure/foreign-players.webp)
