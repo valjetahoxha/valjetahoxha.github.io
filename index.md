@@ -15,7 +15,8 @@ Whitman College | Expected: May 2025
 -------------------     ----------------------------
 ## Google Location Data Projects
 
-{% include_relative location/LocationData-20241015.pkl%}
+{% include_relative location/LocationData-20241015.html %}
+
 
 -------------------     ----------------------------
 ## TECHNICAL SKILLS
