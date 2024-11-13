@@ -59,7 +59,7 @@ https://publuu.com/flip-book/708042/1574487
 
 ## Above and Beyond
 
-[England Premier League Data (2019-2020)](england-premier-league-2019-to-2020.csv)
+
 
 - **Description**: Detailed data on England Premier League matches for the 2019-2020 season, including scores, player statistics, and team performance.
    - **Ideas for Exploration**: 
@@ -69,3 +69,7 @@ https://publuu.com/flip-book/708042/1574487
      - **Predictive Modeling**: Develop models to predict future match outcomes based on historical data.
      - **Visualization**: Create visualizations to illustrate key statistics and trends, such as goal distributions, win/loss ratios, and player contributions.
      -[Foreign Players](figure/foreign-players.webp)
+
+
+[England Premier League Data (2019-2020)](figures/england-premier-league-2019-to-2020.csv)
+   - **Description**: Detailed data on England Premier League matches for the 2019-2020 season, including scores, player statistics, and team performance.
